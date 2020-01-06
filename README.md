@@ -9,5 +9,6 @@ My goal for this project is to analyze two Kaggle datasets to help developers th
 Data cleaning and visulization are mainly applied in the exploratory analysis.
 
 ## Credits and Appreciation
-1.<a href="https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps">iOS dataset</a>from Kaggle;
-2.<a href="https://www.kaggle.com/lava18/google-play-store-apps">Android dataset</a>from Kaggle.
+1.<a href="https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps">iOS dataset</a> from Kaggle;
+
+2.<a href="https://www.kaggle.com/lava18/google-play-store-apps">Android dataset</a> from Kaggle.
